@@ -64,7 +64,7 @@ namespace Tic_Tac_Toe_Game
                 Console.WriteLine("\n");
                 Console.WriteLine("\n");
                 Console.WriteLine("\n");
-                Console.WriteLine("                                                                              Place 'X' or 'O' using the numbers on the numpad of your keyboard.");
+                Console.WriteLine("                                                                              Place 'X' or 'O  using the numbers on the numpad of your keyboard.");
                 Console.WriteLine("\n");
 
 
